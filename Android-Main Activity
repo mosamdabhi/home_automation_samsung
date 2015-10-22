@@ -2,7 +2,7 @@
 // Author: Mosam
 // This is the main activty code controlling the LED as on / off interfacecd with Arduino
 
-package com.mycompany.mosam.recogniser_initial_beta;
+package com.mycompany.mosam.ledcheck;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
